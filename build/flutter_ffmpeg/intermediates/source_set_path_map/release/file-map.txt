@@ -1,0 +1,12 @@
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-pngs-0 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\generated\res\pngs\release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-resValues-1 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\generated\res\resValues\release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-rs-2 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\generated\res\rs\release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-mergeReleaseResources-3 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-mergeReleaseResources-4 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-merged_res-5 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_ffmpeg\intermediates\merged_res\release
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-annotation-experimental-1.1.0-6 C:\Users\Patni\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-window-1.0.0-beta04-7 C:\Users\Patni\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-core-1.6.0-8 C:\Users\Patni\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-jetified-window-java-1.0.0-beta04-9 C:\Users\Patni\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-main-10 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ffmpeg-0.4.2\android\src\main\res
+com.arthenica.flutter.ffmpeg.flutter_ffmpeg-release-11 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_ffmpeg-0.4.2\android\src\release\res

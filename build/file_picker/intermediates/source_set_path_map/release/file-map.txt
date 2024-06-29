@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-pngs-0 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\generated\res\pngs\release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-1 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\generated\res\resValues\release
+com.mr.flutter.plugin.filepicker.file_picker-rs-2 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\generated\res\rs\release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-3 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-4 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-5 C:\Abhishek\Flutter\Projects\cloud_storo\build\file_picker\intermediates\merged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-6 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-7 C:\Users\Patni\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-8 C:\Users\Patni\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-9 C:\Users\Patni\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-10 C:\Users\Patni\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-main-11 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.1\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-release-12 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-8.0.1\android\src\release\res

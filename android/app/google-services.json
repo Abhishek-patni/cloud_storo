@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "422032983113",
+    "project_id": "cloud-storo",
+    "storage_bucket": "cloud-storo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422032983113:android:8a7541d2ed95f926d22b98",
+        "android_client_info": {
+          "package_name": "com.example.cloud_storo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422032983113-qvg7ogu7d4gqetfq2494a104rcd9vlid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloud_storo",
+            "certificate_hash": "da0115db136f7042c3b598b8d6dd393a83392814"
+          }
+        },
+        {
+          "client_id": "422032983113-5svsohgomseq6gcet032igfr6ddshjki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGibHRE-UQHAUbOyB0gHokSS6-fx7vc3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422032983113-5svsohgomseq6gcet032igfr6ddshjki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "422032983113-mqbrun44r1dfu9bhk55ddjiirnhvvgn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloudStoro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

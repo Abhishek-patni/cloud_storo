@@ -1,0 +1,13 @@
+dev.fluttercommunity.plus.wakelock.wakelock_plus-packaged_res-0 C:\Abhishek\Flutter\Projects\cloud_storo\build\package_info_plus\intermediates\packaged_res\release
+dev.fluttercommunity.plus.wakelock.wakelock_plus-pngs-1 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.wakelock.wakelock_plus-resValues-2 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.wakelock.wakelock_plus-rs-3 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\generated\res\rs\release
+dev.fluttercommunity.plus.wakelock.wakelock_plus-mergeReleaseResources-4 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.wakelock.wakelock_plus-mergeReleaseResources-5 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.wakelock.wakelock_plus-merged_res-6 C:\Abhishek\Flutter\Projects\cloud_storo\build\wakelock_plus\intermediates\merged_res\release
+dev.fluttercommunity.plus.wakelock.wakelock_plus-jetified-annotation-experimental-1.1.0-7 C:\Users\Patni\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.wakelock.wakelock_plus-jetified-window-1.0.0-beta04-8 C:\Users\Patni\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.wakelock.wakelock_plus-core-1.6.0-9 C:\Users\Patni\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.wakelock.wakelock_plus-jetified-window-java-1.0.0-beta04-10 C:\Users\Patni\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.wakelock.wakelock_plus-main-11 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.2.4\android\src\main\res
+dev.fluttercommunity.plus.wakelock.wakelock_plus-release-12 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.2.4\android\src\release\res

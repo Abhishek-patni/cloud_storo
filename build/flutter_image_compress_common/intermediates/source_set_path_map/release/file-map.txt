@@ -1,0 +1,12 @@
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-pngs-0 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\generated\res\pngs\release
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-resValues-1 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\generated\res\resValues\release
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-rs-2 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\generated\res\rs\release
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-mergeReleaseResources-3 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-mergeReleaseResources-4 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-merged_res-5 C:\Abhishek\Flutter\Projects\cloud_storo\build\flutter_image_compress_common\intermediates\merged_res\release
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-jetified-annotation-experimental-1.1.0-6 C:\Users\Patni\.gradle\caches\transforms-3\257e0bb88528f5fc66bfd853728809aa\transformed\jetified-annotation-experimental-1.1.0\res
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-jetified-window-1.0.0-beta04-7 C:\Users\Patni\.gradle\caches\transforms-3\6582e67aea0be70979c64a0bfb01e347\transformed\jetified-window-1.0.0-beta04\res
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-core-1.6.0-8 C:\Users\Patni\.gradle\caches\transforms-3\974b4f2252348b5ef43741b27d416a49\transformed\core-1.6.0\res
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-jetified-window-java-1.0.0-beta04-9 C:\Users\Patni\.gradle\caches\transforms-3\9b0dd0bee9a81680af20f56797c52ab1\transformed\jetified-window-java-1.0.0-beta04\res
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-main-10 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_image_compress_common-1.0.5\android\src\main\res
+com.fluttercandies.flutter_image_compress.flutter_image_compress_common-release-11 C:\Users\Patni\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_image_compress_common-1.0.5\android\src\release\res
